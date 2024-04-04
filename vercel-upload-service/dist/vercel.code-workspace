@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../vercel"
+		},
+		{
+			"path": "../../../vercel-deploy-service"
+		},
+		{
+			"path": "../../../vercel-request-handler"
+		},
+		{
+			"path": "../../../frontend"
+		},
+		{
+			"path": "../../../something"
+		}
+	],
+	"settings": {}
+}
