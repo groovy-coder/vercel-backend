@@ -5,3 +5,5 @@ the deploy-service retrieves the folders using (FIFO) and broken up into individ
 an id is assigned to it .finally it is pushed to S3.
 the request-handler manages the requests it gets and enables tracking of the changes made to the uploaded files.
 consider-Nodejs type files cannot be operated upon.it requires a few modification. 
+an package json with root-directory as src and output-directory as dist.
+install node-modules in vercel-upload-service.
