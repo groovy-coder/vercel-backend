@@ -7,3 +7,4 @@ the request-handler manages the requests it gets and enables tracking of the cha
 consider-Nodejs type files cannot be operated upon.it requires a few modification. 
 an package json with root-directory as src and output-directory as dist.
 install node-modules in vercel-upload-service.
+Note: actual values in the S3 object has to be given,the values are not given since it was not possible to create a Cloudflare account.
